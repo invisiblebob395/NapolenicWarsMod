@@ -1,0 +1,4 @@
+Changelog V1.8
+-------------------
+added /nodmgteam command for admins
+added /invisible and /visible command for admins

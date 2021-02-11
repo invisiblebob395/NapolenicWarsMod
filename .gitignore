@@ -1,0 +1,5 @@
+!*
+*.pyc
+config_*
+.build_no
+.compiling_in_progess
